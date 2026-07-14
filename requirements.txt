@@ -4,3 +4,8 @@ scikit-learn
 matplotlib
 seaborn
 jupyter
+fastapi
+uvicorn
+pydantic
+mlflow
+pytest
